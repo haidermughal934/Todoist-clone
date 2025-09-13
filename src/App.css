@@ -1,0 +1,40 @@
+.hover-btn:hover {
+  background-color: #F0E7E1;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+.hover-bttn:hover {
+  background-color: #bfdcf9;
+  color: blue;
+  transition: all 0.3s ease-in-out;
+}
+@keyframes scroll-horizontal {
+     from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+  }
+
+  .marquee-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .marquee-content {
+    display: flex;
+    animation: scroll-horizontal 10s linear infinite;
+  }
+.bttn {
+  background-color: rgb(249, 247, 246);
+  transition: all 0.3s ease-in-out;
+}
+
+.bttn:hover {
+  background-color: rgb(232, 227, 227);
+}
+body {
+  overflow-x: hidden;
+}
