@@ -33,6 +33,6 @@ Check it out here:
 This project is licensed under the MIT License – free to use, modify, and share.
 
 ## Connect with Me
-GitHub: https://github.com/haidermughal934
-LinkedIn: https://www.linkedin.com/in/haider-ali-mughal-6a495737b/
-Email: alihaiderbop934@gmail.com
+- [GitHub](https://github.com/haidermughal934)  
+- [LinkedIn](https://www.linkedin.com/in/haider-ali-mughal-6a495737b/)  
+- [Email](mailto:alihaiderbop934@gmail.com)
